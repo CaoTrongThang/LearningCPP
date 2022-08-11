@@ -8,8 +8,7 @@
             "args": [
                 "-fdiagnostics-color=always",
                 "-g",
-                "${workspaceFolder}/HeaderFiles/*.cpp",
-                "${workspaceFolder}/HeaderFiles/*.h",
+                "${workspaceFolder}/*.h",
                 "${workspaceFolder}/*.cpp",
                 "-o",
                 "${fileDirname}/bin/${fileBasenameNoExtension}"

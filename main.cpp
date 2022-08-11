@@ -1,12 +1,15 @@
 #include <iostream>
-#include <time.h>
-#include <stdlib.h>
-#include "HeaderFiles/algorithms.h"
+#include <mygames.h>
 
 using namespace std;
 
 int main()
-{     
-      cout << "test";
+{
+      int money = 5000;
+
+      while (true)
+      {TaiHayXiu
+      }
+
       return 0;
 }
